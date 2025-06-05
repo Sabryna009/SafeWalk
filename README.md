@@ -1,15 +1,15 @@
 # SafeWalk
-SafeWalk traduzido do inglês, significa "Caminhada Segura". O nome reflete diretamente o propósito do projeto, que é proporcionar mais segurança e autonomia na locomoção de pessoas cegas ou com deficiência visual. 
+<p align="justify"> SafeWalk traduzido do inglês, significa "Caminhada Segura". O nome reflete diretamente o propósito do projeto, que é proporcionar mais segurança e autonomia na locomoção de pessoas cegas ou com deficiência visual. 
 
 <br>
 
 ## Proposta
-O projeto SafeWalk propõe o desenvolvimento de uma bengala inteligente equipada com um sensor ultrassônico e a placa ESP32, capaz de detectar obstáculos à frente do usuário. Através de alertas, o dispositivo visa auxiliar pessoas cegas ou com deficiência visual na sua locomoção diária, oferecendo mais segurança, independência e qualidade de vida.
+<p align="justify"> O projeto SafeWalk propõe o desenvolvimento de uma bengala inteligente equipada com um sensor ultrassônico e a placa ESP32, capaz de detectar obstáculos à frente do usuário. Através de alertas, o dispositivo visa auxiliar pessoas cegas ou com deficiência visual na sua locomoção diária, oferecendo mais segurança, independência e qualidade de vida.
 
 <br>
 
 ## Objetivo
-Desenvolver um dispositivo assistivo utilizando a placa ESP32 e um sensor ultrassônico, com o objetivo de auxiliar na mobilidade e na navegação segura de pessoas cegas ou com deficiência visual. O sistema será implementado em uma bengala, permitindo a detecção de obstáculos à frente do usuário em tempo real. Dessa forma, busca-se oferecer um recurso prático e eficiente, promovendo mais autonomia, segurança e qualidade de vida para os usuários durante seus deslocamentos diários.
+<p align="justify"> Desenvolver um dispositivo assistivo utilizando a placa ESP32 e um sensor ultrassônico, com o objetivo de auxiliar na mobilidade e na navegação segura de pessoas cegas ou com deficiência visual. O sistema será implementado em uma bengala, permitindo a detecção de obstáculos à frente do usuário em tempo real. Dessa forma, busca-se oferecer um recurso prático e eficiente, promovendo mais autonomia, segurança e qualidade de vida para os usuários durante seus deslocamentos diários.
 
 <br>
 

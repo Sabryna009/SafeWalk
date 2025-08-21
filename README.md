@@ -31,23 +31,20 @@
 
 <br>
 
-| ATIVIDADE                                     | Abr. (M1) | Mai. (M2) | Jun. (M3) | Jul. (M4) | ENTREGA           |
-|------------------------------------------------|-----------|-----------|-----------|-----------|-------------------|
-| **PRIMEIRA PARTE DO PROJETO**                 |           |           |           |           |                   |
-| Definição do projeto                          | ✔️        |           |           |           | 01/04/2025        |
-| Pesquisa                                       | ✔️        |           |           |           | 14/04/2025        |
-| Primeiros testes                               | ✔️        |           |           |           | 20/04/2025        |
-| Levantamento de requisitos funcionais          | ✔️        |           |           |           | 24/04/2025        |
-| Levantamento de requisitos não funcionais      | ✔️        |           |           |           | 26/04/2025        |
-| Regras de negócio                              | ✔️        |           |           |           | 27/04/2025        |
-| Começo da montagem da documentação             | ✔️        |           |           |           | 27/04/2025        |
-| **SEGUNDA PARTE DO PROJETO**                  |           |           |           |           |                   |
-| Alterações / Modificações                      |         |   ✔️     |           |           | 02/05/2025        |
-| Pesquisa do tipo de buzzer                     |         |    ✔️       |           |           | 21/05/2025        |
-| Implementação / testes                          |        |    ✔️      |           |           |                   |
-| Meio da montagem da documentação               |         |             |           |           |                  |
-| Criação do Aplicativo                         |         |              |           |           |                  |
-| **ENTREGA FINAL DO PROJETO**                   |           |           |           |           |                   |
-| Implementação completa final                    |           |          |         |           |                   |
-| Testes finais                                  |           |         |         |           |                   |
-| Documentação completa e finalizada             |           |         |        |         |                   |
+| Atividades                    | Abr. | Mai. | Jun. | Jul. | Entrega       |
+|--------------------------------|:----:|:----:|:----:|:----:|---------------|
+| **PRIMEIRA PARTE DO PROJETO**  |      |      |      |      |               |
+| Definição do Projeto           |  X   |      |      |      | 01/04/2025    |
+| Pesquisas e Testes             |  X   |      |      |      | 14/04/2025    |
+| Arquitetura                    |  X   |      |      |      | 20/04/2025    |
+| Requisitos Funcionais          |  X   |      |      |      | 24/04/2025    |
+| Requisitos Não Funcionais      |  X   |      |      |      | 26/04/2025    |
+| Regras de Negócio              |  X   |      |      |      | 27/04/2025    |
+| **SEGUNDA PARTE DO PROJETO**   |      |      |      |      |               |
+| Reajustes do Projeto           |      |  X   |      |      | 02/05/2025    |
+| Implementação                  |      |  X   |  X   |      | 06/06/2025... |
+| Começo da Documentação         |      |  X   |  X   |      | 09/06/2025... |
+| **ENTREGA FINAL**              |      |      |      |      |               |
+| Apresentação Final             |      |      |      |  X   | 09/07/2025    |
+| Implementação Final Funcional  |      |      |  X   |      | 09/06/2025    |
+| Documentação finalizada        |      |      |  X   |      | 09/06/2025    |
